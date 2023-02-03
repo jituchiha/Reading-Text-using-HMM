@@ -96,4 +96,4 @@ Let us go over the problem statement once again:
 ❯ python3 ./image2text.py test_images/courier-train.png ../Part1/bc.test test_images/test-3-0.png
 Simple: Together with No. 14-562, Tanco et al. v. Haslam, Governor of
    HMM: Together with No. 14-562, Tanco et al. v. Haslam, Governor of
-```
+```# Reading-Text-using-HMM
