@@ -1,5 +1,4 @@
-# CSCI-B 551 Assignment 3 - Probability, NLP, and Computer Vision
-by Kommalapati A., Sadeghi H., Bhandari J.
+
 
 Note: Please see [README.pdf](README.pdf) in case latex formulae does not load
 
